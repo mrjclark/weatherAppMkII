@@ -1,0 +1,6 @@
+/home/matthew/git/trusted/weatherAppMkII/target/debug/deps/tracing_log-6d016375d02c5c14.d: /home/matthew/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tracing-log-0.2.0/src/lib.rs /home/matthew/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tracing-log-0.2.0/src/log_tracer.rs
+
+/home/matthew/git/trusted/weatherAppMkII/target/debug/deps/libtracing_log-6d016375d02c5c14.rmeta: /home/matthew/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tracing-log-0.2.0/src/lib.rs /home/matthew/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tracing-log-0.2.0/src/log_tracer.rs
+
+/home/matthew/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tracing-log-0.2.0/src/lib.rs:
+/home/matthew/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tracing-log-0.2.0/src/log_tracer.rs:
