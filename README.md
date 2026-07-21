@@ -51,3 +51,8 @@ A modular, MVVM-style Rust application for retrieving current weather, historica
 - [ ] Add export tools (CSV, JSON)
 - [ ] Add optional Tauri desktop UI
 - [ ] Add unit tests + integration tests
+# API Master List
+
+1. <https://nominatim.openstreetmap.org/search?q=><address>
+2. <https://archive-api.open-meteo.com/v1/archive?latitude=><lat>&longitude=<long>&start_date=<start>&end_date=<end>&timezone=<current timezone>&hourly=<meteological data points>
+3. <https://api.open-meteo.com/v1/forecast?latitude=><lat>&longitude=<long>&timezone=<current timezone>&current=<meteological data points>
